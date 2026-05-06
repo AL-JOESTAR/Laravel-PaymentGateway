@@ -15,4 +15,5 @@ buat file midtrans.php di folder config, lalu isi :
 untuk callback after payment
 
 - install ngrok -> arahkan ke port nginx laravel sail
+- ngrok http 80
 - copy link ngrok ke midtrans url configuration
