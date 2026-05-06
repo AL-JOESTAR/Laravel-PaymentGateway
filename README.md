@@ -11,3 +11,8 @@ buat file midtrans.php di folder config, lalu isi :
 'merchant_id' => env('MIDTRANS_MERCHANT_ID'),
 'client_key' => env('MIDTRANS_CLIENT_KEY'),
 'server_key' => env('MIDTRANS_SERVER_KEY'),
+
+untuk callback after payment
+
+- install ngrok -> arahkan ke port nginx laravel sail
+- copy link ngrok ke midtrans url configuration
