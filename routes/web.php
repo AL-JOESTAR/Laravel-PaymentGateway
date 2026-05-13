@@ -5,4 +5,3 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/',[OrderController::class, 'index']);
 Route::post('/checkout', [OrderController::class, 'checkout']);
-Route::post('/midtrans-callback',[OrderController::class, 'callback']); //after payment
