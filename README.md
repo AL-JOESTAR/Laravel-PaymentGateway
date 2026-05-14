@@ -17,3 +17,6 @@ untuk callback after payment
 - install ngrok -> arahkan ke port nginx laravel sail
 - ngrok http 80
 - copy link ngrok ke midtrans url configuration
+
+### Reference
+https://youtube.com/playlist?list=PLBs-bxLCgCx8RnTNzu2QYvzQMuskmID1A&si=uMziMVnjWBu6fHf1
